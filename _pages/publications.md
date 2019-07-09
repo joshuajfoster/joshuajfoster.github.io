@@ -7,25 +7,39 @@ author_profile: true
 
 
 
-## Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory
+## [Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory](https://www.physiology.org/doi/abs/10.1152/jn.00268.2019)
 
-Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*. PDF
+Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*.
+
+PDF
 
 ## Item-specific delay activity demonstrates concurrent storage of multiple active neural representations
 
-Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17: e3000239. PDF \| [Data and Code](https://osf.io/47cmn/)
+Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17: e3000239. 
+
+[PDF](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [Data and Code](https://osf.io/47cmn/)
+
+
 
 ## The role of alpha oscillations in spatial attention: Limited evidence for a suppression account
 
-Foster JJ and Awh E (2019) *Current Opinion in Psychology*, 29, 34-40. PDF
+Foster JJ and Awh E (2019) *Current Opinion in Psychology*, 29, 34-40. 
+
+[PDF](http://joshuajfoster.github.io/files/papers/Foster & awh_2019_CurrOpinionPsych.pdf)
 
 ## Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning
 
-Sprague TC, Adam KCS, Foster JJ, Rahmati M, Sutterer DW, Vo VA (2018). *eNeuro*, 5(3). PDF
+Sprague TC, Adam KCS, Foster JJ, Rahmati M, Sutterer DW, Vo VA (2018). *eNeuro*, 5(3). 
+
+[PDF](http://joshuajfoster.github.io/files/papers/Sprague et al_2018_eNeuro.pdf)
 
 ## Spatially selective alpha oscillations reveal moment-by-moment trade-offs between working memory and attention
 
-D van Moorselaar, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL, Awh E (2018). *Journal of Cognitive Neuroscience*, 30(2), 256-266. PDF
+D van Moorselaar, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL, Awh E (2018). *Journal of Cognitive Neuroscience*, 30(2), 256-266. 
+
+[PDF](http://joshuajfoster.github.io/files/papers/van Moorselaar et al_2018_JoCN.pdf) | [Data and Code](https://osf.io/56rzh/)
+
+
 
 
 
