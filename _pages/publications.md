@@ -19,7 +19,7 @@ Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17
 
 ## The role of alpha oscillations in spatial attention: Limited evidence for a suppression account
 
-Foster JJ and Awh E (2019) *Current Opinion in Psychology*, 29, 34-40. [PDF](http://joshuajfoster.github.io/files/papers/Foster & Awh_2019_CurrOpinionPsych.pdf)
+Foster JJ and Awh E (2019) *Current Opinion in Psychology*, 29, 34-40.<br/>[PDF](http://joshuajfoster.github.io/files/papers/Foster & Awh_2019_CurrOpinionPsych.pdf)
 
 ## Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning
 
