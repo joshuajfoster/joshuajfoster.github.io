@@ -11,7 +11,7 @@ author_profile: true
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*.
 
-PDF
+[PDF](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/207860.full.pdf)
 
 ## Item-specific delay activity demonstrates concurrent storage of multiple active neural representations
 
