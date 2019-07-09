@@ -43,7 +43,7 @@ D van Moorselaar, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL, Awh E (2018).
 
 Foster JJ, Bsales EM, Jaffe RJ, Awh E (2017). *Current Biology*, 27(20), 3216-3223.
 
-[PDF](http://joshuajfoster.github.io/files/papers/Foster et al_2017_CurrBio.pdf) \| [Data and Code]([Data](https://osf.io/vw4uc/)) \| [Research Highlight in Nature Neuroscience](https://www.nature.com/articles/nrn.2017.143?WT.ec_id=NRN-201712&spMailingID=55372847&spUserID=NzM5Njg0NjU0NzUS1&spJobID=1282840712&spReportId=MTI4Mjg0MDcxMgS2)
+[PDF](http://joshuajfoster.github.io/files/papers/Foster et al_2017_CurrBio.pdf) \| [Data and Code](https://osf.io/vw4uc/) \| [Research Highlight in Nature Neuroscience](https://www.nature.com/articles/nrn.2017.143?WT.ec_id=NRN-201712&spMailingID=55372847&spUserID=NzM5Njg0NjU0NzUS1&spJobID=1282840712&spReportId=MTI4Mjg0MDcxMgS2)
 
 ## Alpha-band oscillations enable spatially and temporally resolved tracking of covert spatial attention
 
