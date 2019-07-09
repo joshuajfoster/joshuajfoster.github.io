@@ -25,7 +25,7 @@ Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17
 
 Foster JJ and Awh E (2019) *Current Opinion in Psychology*, 29, 34-40. 
 
-[PDF](http://joshuajfoster.github.io/files/papers/Foster & awh_2019_CurrOpinionPsych.pdf)
+[PDF](http://joshuajfoster.github.io/files/papers/Foster & Awh_2019_CurrOpinionPsych.pdf)
 
 ## Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning
 
