@@ -13,9 +13,7 @@ Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neu
 
 ## Item-specific delay activity demonstrates concurrent storage of multiple active neural representations
 
-Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17(4): e3000239. 
-
-[PDF](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [Data and Code](https://osf.io/47cmn/)
+Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17(4): e3000239. [PDF](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [Data and Code](https://osf.io/47cmn/)
 
 
 
