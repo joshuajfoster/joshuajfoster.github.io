@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+\* authors made equal contributions
 
-
-## [Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory](https://www.physiology.org/doi/abs/10.1152/jn.00268.2019)
+## Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*.
 
@@ -15,7 +15,7 @@ PDF
 
 ## Item-specific delay activity demonstrates concurrent storage of multiple active neural representations
 
-Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17: e3000239. 
+Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17(4): e3000239. 
 
 [PDF](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [Data and Code](https://osf.io/47cmn/)
 
@@ -37,7 +37,37 @@ Sprague TC, Adam KCS, Foster JJ, Rahmati M, Sutterer DW, Vo VA (2018). *eNeuro*,
 
 D van Moorselaar, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL, Awh E (2018). *Journal of Cognitive Neuroscience*, 30(2), 256-266. 
 
-[PDF](http://joshuajfoster.github.io/files/papers/van Moorselaar et al_2018_JoCN.pdf) | [Data and Code](https://osf.io/56rzh/)
+[PDF](http://joshuajfoster.github.io/files/papers/van Moorselaar et al_2018_JoCN.pdf) \| [Data and Code](https://osf.io/56rzh/)
+
+## Alpha-band activity reveals spontaneous representations of spatial position in visual working memory
+
+Foster JJ, Bsales EM, Jaffe RJ, Awh E (2017). *Current Biology*, 27(20), 3216-3223.
+
+[PDF](http://joshuajfoster.github.io/files/papers/Foster et al_2017_CurrBio.pdf) \| [Data and Code]([Data](https://osf.io/vw4uc/)) \| [Research Highlight in Nature Neuroscience](https://www.nature.com/articles/nrn.2017.143?WT.ec_id=NRN-201712&spMailingID=55372847&spUserID=NzM5Njg0NjU0NzUS1&spJobID=1282840712&spReportId=MTI4Mjg0MDcxMgS2)
+
+## Alpha-band oscillations enable spatially and temporally resolved tracking of covert spatial attention
+
+Foster JJ, Sutterer DW, Serences, JT, Vogel EK, Awh E (2017). *Psychological Science*, 28(7), 929-941.
+
+[PDF](http://joshuajfoster.github.io/files/papers/Foster et al_2017_PsychScience.pdf) \| [Data and Code](https://osf.io/29nxv/)
+
+## The topography of alpha-band activity tracks the content of spatial working memory
+
+Foster JJ, Sutterer, DW, Serences JT, Vogel EK, Awh E (2016). *Journal of Neurophysiology*, 115(1), 168-177.
+
+[PDF](http://joshuajfoster.github.io/files/papers/Foster et al_2016_JNeurophysiol.pdf) \| [Data and Code](https://osf.io/bwzfj/)
+
+## Frontal and parietal EEG asymmetries interact to predict attentional bias to threat
+
+Grimshaw GM, Foster JJ, Corballis PM (2014). *Brain and Cognition*, 90, 76-86. 
+
+[PDF](http://joshuajfoster.github.io/files/papers/Grimshaw et al_2014_Brain&Cognition.pdf)
+
+## Is feature-based attention always spatially global during visual search?
+
+Foster JJ\* and Adam KCS\* (2014). *Journal of Neuroscience*, 34 (26), 8662-8664.
+
+[PDF](http://joshuajfoster.github.io/files/papers/Foster & Adam_2014_JNeurosci.pdf)
 
 
 
