@@ -1,10 +1,8 @@
 # To do
 
-Add an email link once I have a BU email account
+Create a Preprints page. 
 
-Turn Portfolio into an archive of recent posters and talks (pdfs)
+Turn Portfolio into an archive of recent posters. 
 
-## Low priority
-
-Have CV open in a new tab when you select it rather than in the same window 
+Have CV open in a new tab when you select it. 
 
