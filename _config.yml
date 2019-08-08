@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JOSHUA J. FOSTER"
+title                    : "TEST"
 title_separator          : "-"
 name                     : &name "JOSHUA J. FOSTER"
 description              : &description "personal description"
