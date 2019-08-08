@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "PUBLICATIONS"
+  - title: "Publications"
     url: /publications/
 
-  - title: "PREPRINTS"
+  - title: "Preprints"
     url: /preprints/
 
   - title: "CV"
