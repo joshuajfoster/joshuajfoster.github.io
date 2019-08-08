@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TEST"
+title                    : "Joshua J. Foster"
 title_separator          : "-"
-name                     : &name "JOSHUA J. FOSTER"
+name                     : &name "Joshua J. Foster"
 description              : &description "personal description"
 url                      : https://joshuajfoster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "JOSHUA J. FOSTER"
+  name             : "Joshua J. Foster"
   avatar           : "joshuafoster.png"
   bio              : "Cognitive neuroscience of attention and working memory"
   location         : "Boston, MA"
