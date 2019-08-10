@@ -7,7 +7,7 @@ author_profile: true
 
 \* authors made equal contributions
 
-**Alpha-band oscillations track the retrieval of precision spatial representations from long-term memory**
+##Alpha-band oscillations track the retrieval of precision spatial representations from long-term memory
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*.<br/> [PDF](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/207860.full.pdf)
 
@@ -15,15 +15,15 @@ Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neu
 
 Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17(4): e3000239.<br/>[PDF](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [Data and Code](https://osf.io/47cmn/)
 
-#### The role of alpha oscillations in spatial attention: Limited evidence for a suppression account
+##The role of alpha oscillations in spatial attention: Limited evidence for a suppression account
 
 Foster JJ and Awh E (2019) *Current Opinion in Psychology*, 29, 34-40.<br/>[PDF](http://joshuajfoster.github.io/files/papers/Foster & Awh_2019_CurrOpinionPsych.pdf)
 
-####Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning
+##Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning
 
 Sprague TC, Adam KCS, Foster JJ, Rahmati M, Sutterer DW, Vo VA (2018). *eNeuro*, 5(3).<br/>[PDF](http://joshuajfoster.github.io/files/papers/Sprague et al_2018_eNeuro.pdf)
 
-####Spatially selective alpha oscillations reveal moment-by-moment trade-offs between working memory and attention
+##Spatially selective alpha oscillations reveal moment-by-moment trade-offs between working memory and attention
 
 D van Moorselaar, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL, Awh E (2018). *Journal of Cognitive Neuroscience*, 30(2), 256-266.<br/>[PDF](http://joshuajfoster.github.io/files/papers/van Moorselaar et al_2018_JoCN.pdf) \| [Data and Code](https://osf.io/56rzh/)
 
