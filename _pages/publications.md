@@ -7,9 +7,7 @@ author_profile: true
 
 \* authors made equal contributions
 
-
-
-#### Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory
+### Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*.<br/> [PDF](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/207860.full.pdf)
 
