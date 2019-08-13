@@ -7,15 +7,13 @@ author_profile: true
 
 \* authors made equal contributions
 
-## Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory
+## Alpha-band oscillations track the retrieval of precision spatial representations from long-term memory
 
-Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*.<br/> [PDF](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/207860.full.pdf)
+Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (in press). *Journal of Neurophysiology*, 122(2), 539-551.<br/> [PDF](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/207860.full.pdf)
 
 ## Item-specific delay activity demonstrates concurrent storage of multiple active neural representations
 
 Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17(4): e3000239.<br/>[PDF](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [Data and Code](https://osf.io/47cmn/)
-
-
 
 ## The role of alpha oscillations in spatial attention: Limited evidence for a suppression account
 
