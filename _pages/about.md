@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Boston University, where I work with [Sam Ling](<https://sites.bu.edu/vision/>). My research explores the neural mechanisms that support visual attention and working memory. I use a range of neuroscience methods including EEG, fMRI, eye tracking, and computational modelling. 
+I am a cognitive neuroscientist working with [Sam Ling](<https://sites.bu.edu/vision/>) at Boston University. 
 
-I completed my PhD at the University of Chicago (mid-2019) with [Ed Awh and Ed Vogel](<https://awhvogellab.com/>). Prior to my PhD work, I studied Mathematics and Psychology at Victoria University of Wellington in New Zealand, where I worked with [Gina Grimshaw](<https://canlabvuw.wordpress.com/>). 
+I use a variety of tools including EEG, functional MRI, eye tracking, and computational modelling. 
 
+I completed my PhD at University of Chicago in 2019, where I worked with [Ed Awh and Ed Vogel](<https://awhvogellab.com/>).
 
+Prior to my PhD work, I studied at Victoria University of Wellington in New Zealand, where I studied Mathematics and Psychology and worked with [Gina Grimshaw](<https://canlabvuw.wordpress.com/>). 
 

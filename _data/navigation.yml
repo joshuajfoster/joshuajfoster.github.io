@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Preprints"
-    url: /preprints/
-              
+    url: /preprints/      
+    
+  - title: "Posters"
+    url: /portfolio/
+            
   - title: "CV"
     url: /files/cv/Joshua Foster_CV.pdf
