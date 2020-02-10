@@ -9,9 +9,7 @@ author_profile: true
 
 ## Covert spatial attention speeds target individuation
 
-Foster JJ, Bsales EM, Awh E (in press). *Journal of Neuroscience*.<br/>[Preprint](https://www.biorxiv.org/content/10.1101/838557v1)
-
-
+Foster JJ, Bsales EM, Awh E (in press). *Journal of Neuroscience*.<br/>[Preprint](https://www.biorxiv.org/content/10.1101/838557v1) | [Data and Code](https://osf.io/a9mvb/)
 
 ## Alpha-band oscillations track the retrieval of precision spatial representations from long-term memory
 
