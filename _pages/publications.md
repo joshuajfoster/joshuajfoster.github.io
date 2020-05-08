@@ -7,9 +7,11 @@ author_profile: true
 
 \* authors made equal contributions
 
+**Working memory as persistent neural activity**<br/>Foster JJ, Vogel EK, Awh E (in press). In MJ Kahana & AD Wagner (Eds.), *Oxford Handbook of Human Memory*. Oxford University Press.<br/>[preprint](https://psyarxiv.com/jh6e3/)
+
 **Covert spatial attention speeds target individuation**<br/>Foster JJ, Bsales EM, Awh E (2020). *Journal of Neuroscience*, 40(13), 2717-2726.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Foster et al_2020_JNeurosci.pdf) \| [data and code](https://osf.io/a9mvb/)
 
-**Alpha-band oscillations track the retrieval of precision spatial representations from long-term memory**<br/>Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (2019). *Journal of Neurophysiology*, 122(2), 539-551.<br/> [pdf](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/207860.full.pdf)
+**Alpha-band oscillations track the retrieval of precision spatial representations from long-term memory**<br/>Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (2019). *Journal of Neurophysiology*, 122(2), 539-551.<br/> [pdf](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/207860.full.pdf) | [data and code](https://osf.io/bh4dq/)
 
 **Item-specific delay activity demonstrates concurrent storage of multiple active neural representations**<br/>Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17(4): e3000239.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [data and code](https://osf.io/47cmn/)
 
