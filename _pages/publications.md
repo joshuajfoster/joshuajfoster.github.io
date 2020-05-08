@@ -11,6 +11,8 @@ author_profile: true
 
 **Covert spatial attention speeds target individuation**<br/>Foster JJ, Bsales EM, Awh E (2020). *Journal of Neuroscience*, 40(13), 2717-2726.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Foster et al_2020_JNeurosci.pdf) \| [data and code](https://osf.io/a9mvb/)
 
+**Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory**<br/>Sutterer DW, Foster JJ, Serences JT, Vogel EK, Awh E (2019). *Journal of Neurophysiology*, 122(2)-539-551.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) | [data and code](https://osf.io/bh4dq/)
+
 **Item-specific delay activity demonstrates concurrent storage of multiple active neural representations**<br/>Sutterer DW\*, Foster JJ\*, Adam KCS, Vogel EK, Awh E (2019). *PLOS Biology*, 17(4): e3000239.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Sutterer Foster et al_2019_PLOS Biology.pdf) \| [data and code](https://osf.io/47cmn/)
 
 **The role of alpha oscillations in spatial attention: Limited evidence for a suppression account**<br/>Foster JJ and Awh E (2019) *Current Opinion in Psychology*, 29, 34-40.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Foster & Awh_2019_CurrOpinionPsych.pdf)
