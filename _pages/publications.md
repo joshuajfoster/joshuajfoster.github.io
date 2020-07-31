@@ -13,7 +13,7 @@ author_profile: true
 
 ## Articles
 
-**Working memory as persistent neural activity**<br/>Foster JJ, Vogel EK, Awh E (in press). In MJ Kahana & AD Wagner (Eds.), *Oxford Handbook of Human Memory*. Oxford University Press.<br/>[preprint](https://psyarxiv.com/jh6e3/)
+**Working memory as persistent neural activity**<br/>Foster JJ, Vogel EK, Awh E (in press). *Oxford Handbook of Human Memory* (Eds: MJ Kahana & AD Wagner)<br/>[preprint](https://psyarxiv.com/jh6e3/)
 
 **Covert spatial attention speeds target individuation**<br/>Foster JJ, Bsales EM, Awh E (2020). *Journal of Neuroscience*.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Foster et al_2020_JNeurosci.pdf) \| [data and code](https://osf.io/a9mvb/)
 
