@@ -5,7 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-\* authors made equal contributions
+\* indicates that authors made equal contributions
+
+## Preprints
+
+**Spatial attention enhances the spatial selectivity of population codes during the first wave of visual processing**<br/>Foster JJ, Thyer W, Wennberg JW, Awh E (2020). *BioRxiv*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v1)
+
+## Articles
 
 **Working memory as persistent neural activity**<br/>Foster JJ, Vogel EK, Awh E (in press). In MJ Kahana & AD Wagner (Eds.), *Oxford Handbook of Human Memory*. Oxford University Press.<br/>[preprint](https://psyarxiv.com/jh6e3/)
 
