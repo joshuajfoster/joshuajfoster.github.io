@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-**Spatial attention enhances the spatial selectivity of population codes during the first wave of visual processing**<br/>Foster JJ, Thyer W, Wennberg JW, Awh E (2020). *BioRxiv*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v1)
+**Covert attention increases the gain of stimulus-evoked population codes**<br/>Foster JJ, Thyer W, Wennberg JW, Awh E (2020). *BioRxiv*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v2)
 
 ## Articles
 
