@@ -7,6 +7,12 @@ author_profile: true
 
 \* indicates that authors made equal contributions
 
+## Preprints
+
+**Shared long-term and short-term memory representational formats in occipital and parietal cortex**<br/>Vo VA, Sutterer DW, Foster JJ, Sprague TC, Awh E, Serences JT (2021). *BioRxiv*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2021.02.16.431528v1)
+
+## Publications (peer-reviewed)
+
 **Covert attention increases the gain of stimulus-evoked population codes**<br/>Foster JJ, Thyer W, Wennberg JW, Awh E (in press). *Journal of Neuroscience*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v2) \| [data and code](https://osf.io/hmvzc/)
 
 **Working memory as persistent neural activity**<br/>Foster JJ, Vogel EK, Awh E (in press). *Oxford Handbook of Human Memory* (Eds: MJ Kahana & AD Wagner)<br/>[preprint](https://psyarxiv.com/jh6e3/)
