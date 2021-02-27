@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publications (peer-reviewed)
 
-**Covert attention increases the gain of stimulus-evoked population codes**<br/>Foster JJ, Thyer W, Wennberg JW, Awh E (in press). *Journal of Neuroscience*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v2) \| [data and code](https://osf.io/hmvzc/)
+**Covert attention increases the gain of stimulus-evoked population codes**<br/>Foster JJ, Thyer W, Wennberg JW, Awh E (2021). *Journal of Neuroscience*.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Foster et al_2021_JNeurosci.pdf) \| [data and code](https://osf.io/hmvzc/)
 
 **Working memory as persistent neural activity**<br/>Foster JJ, Vogel EK, Awh E (in press). *Oxford Handbook of Human Memory* (Eds: MJ Kahana & AD Wagner)<br/>[preprint](https://psyarxiv.com/jh6e3/)
 
