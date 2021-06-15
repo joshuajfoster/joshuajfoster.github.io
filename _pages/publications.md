@@ -9,11 +9,11 @@ author_profile: true
 
 ## Preprints
 
-**Temporal attention selectively enhances target features**<br/>Ramirez LD, Foster JJ, Ling S (2021). *BioRxiv*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2021.03.25.437071v1.abstract)
-
 **Shared long-term and short-term memory representational formats in occipital and parietal cortex**<br/>Vo VA, Sutterer DW, Foster JJ, Sprague TC, Awh E, Serences JT (2021). *BioRxiv*.<br/>[preprint](https://www.biorxiv.org/content/10.1101/2021.02.16.431528v1)
 
 ## Publications (peer-reviewed)
+
+**Temporal attention selectively enhances target features**<br/>Ramirez LD, Foster JJ, Ling S (2021). *Journal of Vision*.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Ramirez et al_2021_JoV.pdf)
 
 **Covert attention increases the gain of stimulus-evoked population codes**<br/>Foster JJ, Thyer W, Wennberg JW, Awh E (2021). *Journal of Neuroscience*.<br/>[pdf](http://joshuajfoster.github.io/files/papers/Foster et al_2021_JNeurosci.pdf) \| [data and code](https://osf.io/hmvzc/)
 
